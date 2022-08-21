@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "amar-niwas"
+  },
+  "targets": {
+    "amar-niwas": {
+      "hosting": {
+        "GUI": [
+          "amar-niwas"
+        ]
+      }
+    }
+  }
+}

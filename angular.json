@@ -97,6 +97,16 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {
+            "prerender": false,
+            "ssr": false,
+            "browserTarget": "GUI:build:production",
+            "firebaseProject": "amar-niwas",
+            "firebaseHostingSite": "amar-niwas"
+          }
         }
       }
     }
