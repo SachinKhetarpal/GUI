@@ -1,2 +1,2 @@
-let baseUrl="https://spring-boot-learning-test.herokuapp.com"
+let baseUrl="https://backend.sachinkhetarpal.com"
 export default baseUrl;
